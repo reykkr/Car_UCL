@@ -1,0 +1,6 @@
+ALI ABDALLAH
+MOHAMAD ALI GHADDAR
+ALEXANDRE MATYUS
+
+This is our "car factory" realised on jaamsim.
+Along with the data files that we got from our entity loggers
